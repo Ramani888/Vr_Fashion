@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/themes/themeforest/react/laramiss/static/css/main.3e336c6e.chunk.css",
+    "main.js": "/themes/themeforest/react/laramiss/static/js/main.654ce0b0.chunk.js",
+    "main.js.map": "/themes/themeforest/react/laramiss/static/js/main.654ce0b0.chunk.js.map",
+    "runtime-main.js": "/themes/themeforest/react/laramiss/static/js/runtime-main.03dc08b7.js",
+    "runtime-main.js.map": "/themes/themeforest/react/laramiss/static/js/runtime-main.03dc08b7.js.map",
+    "static/css/2.deca80ce.chunk.css": "/themes/themeforest/react/laramiss/static/css/2.deca80ce.chunk.css",
+    "static/js/2.48974fa9.chunk.js": "/themes/themeforest/react/laramiss/static/js/2.48974fa9.chunk.js",
+    "static/js/2.48974fa9.chunk.js.map": "/themes/themeforest/react/laramiss/static/js/2.48974fa9.chunk.js.map",
+    "index.html": "/themes/themeforest/react/laramiss/index.html",
+    "precache-manifest.4e874dcebe7ec7e17f3521df1e7024b4.js": "/themes/themeforest/react/laramiss/precache-manifest.4e874dcebe7ec7e17f3521df1e7024b4.js",
+    "service-worker.js": "/themes/themeforest/react/laramiss/service-worker.js",
+    "static/css/2.deca80ce.chunk.css.map": "/themes/themeforest/react/laramiss/static/css/2.deca80ce.chunk.css.map",
+    "static/css/main.3e336c6e.chunk.css.map": "/themes/themeforest/react/laramiss/static/css/main.3e336c6e.chunk.css.map",
+    "static/js/2.48974fa9.chunk.js.LICENSE.txt": "/themes/themeforest/react/laramiss/static/js/2.48974fa9.chunk.js.LICENSE.txt",
+    "static/media/flaticon.css": "/themes/themeforest/react/laramiss/static/media/Flaticon.d32c9fcb.woff",
+    "static/media/flaticon-2.css": "/themes/themeforest/react/laramiss/static/media/Flaticons.aaf08b63.svg",
+    "static/media/font-awesome.min.css": "/themes/themeforest/react/laramiss/static/media/fa-solid-900.bd18d9c6.eot",
+    "static/media/style.css": "/themes/themeforest/react/laramiss/static/media/pattern-05.f033809b.png",
+    "static/media/slick-theme.css": "/themes/themeforest/react/laramiss/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03dc08b7.js",
+    "static/css/2.deca80ce.chunk.css",
+    "static/js/2.48974fa9.chunk.js",
+    "static/css/main.3e336c6e.chunk.css",
+    "static/js/main.654ce0b0.chunk.js"
+  ]
+}
